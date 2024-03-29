@@ -2,7 +2,7 @@
 Nama             : Arfandi Hadi Kusuma
 Nim              : 13020220150
 Kelas            : A4 
-Hari/Tanggal     :Jum'at, 29 Maret 2024
+Hari/Tanggal     : Jum'at, 29 Maret 2024
 */
 
 package pertemuan2.modul4.user;
