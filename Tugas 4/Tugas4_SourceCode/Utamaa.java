@@ -29,7 +29,7 @@ class Mahasiswa extends Orang {
 
     public Mahasiswa() {
         super();
-        this.stb = "1302002150"; //stambuk anda
+        this.stb = "13020220150"; //stambuk anda
     }
 
     public static void info() {
